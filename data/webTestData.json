@@ -1,0 +1,17 @@
+{
+    "username": "Admin",
+    "password": "admin123",
+    "webUrl": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+    "newEmployee": {
+      "firstName": "John62",
+      "lastName": "Doe62",
+      "username": "John Doe",
+      "searchusername": "Eknoor Singh",
+      "password": "password123"
+    },
+    "updateEmployee": {
+      "firstName": "JohnUpdated",
+      "lastName": "DoeUpdated"
+    }
+  }
+  
